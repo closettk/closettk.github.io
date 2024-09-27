@@ -1,4 +1,4 @@
 # Зубарев Кирилл Сергеевич
 
-[Задание по MarkDown](ABOUTmd.md)
-[Задание по HTML](ABOUThtml.html)
+[Задание по MarkDown](ABOUT_md.md)
+[Задание по HTML](ABOUT_html.html)
